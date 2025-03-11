@@ -1,2 +1,7 @@
-# issues
-eara issue tracker
+# eara-bot/issues
+
+An issue tracker for [Eara](https://eara.io)
+
+---
+
+
